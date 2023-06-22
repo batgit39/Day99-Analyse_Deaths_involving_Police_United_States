@@ -1,6 +1,4 @@
 # Day99-Analyse_Deaths_involving_Police_United_States
-
-# Analysis of Deaths Involving Police in the United States
 This project involves the analysis of a database containing information about every fatal shooting in the United States by a police officer in the line of duty. The data was collected by The Washington Post and covers incidents that occurred since January 1, 2015.
 
 # Objective
